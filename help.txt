@@ -1,0 +1,10 @@
+Genetics Program 0.0.1
+programmed by Martin Taylor (crocojim18)
+
+Commands:
+"help" - prints helpful text!
+"make" - creates a new, custom built creature!
+"breed" - creates a baby from two other creatures
+"zoo" - shows all the creatures available
+"rename" - renames a given creature
+"quit" - quits the program
